@@ -3,6 +3,8 @@
 ## Background
 Diabetes, characterized by high blood sugar levels due to ineffective insulin production or usage, poses serious health risks if not managed. Deep Learning offers promising avenues for diabetes management.
 
+[Documentation Details](https://github.com/Theofilusarifin/Diabetes-Disease-Prediction/blob/main/documentation.pdf)
+
 ## Goals
 To diagnostically predict whether a patient has diabetes or not.
 
