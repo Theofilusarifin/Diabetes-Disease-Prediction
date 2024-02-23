@@ -1,4 +1,4 @@
-# Diabetes Disease Prediction Project
+# Diabetes Disease Prediction
 
 ## Background
 Diabetes, characterized by high blood sugar levels due to ineffective insulin production or usage, poses serious health risks if not managed. Deep Learning offers promising avenues for diabetes management.
